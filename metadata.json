@@ -1,0 +1,6 @@
+{
+  "name": "FaithConnect",
+  "description": "Church management system for pastors and staff to manage member directory, ministries, attendance tracking, events calendar, and church reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
